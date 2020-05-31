@@ -1,0 +1,14 @@
+{
+  "name": "Covid-19-Statistics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
